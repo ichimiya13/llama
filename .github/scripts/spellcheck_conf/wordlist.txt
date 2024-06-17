@@ -1289,6 +1289,8 @@ tokenize
 tokenizer's
 tokenizers
 warmup
+Cloudflare
+Databricks
 BOS
 EOS
 eot
