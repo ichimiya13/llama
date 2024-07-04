@@ -32,3 +32,9 @@ class custom_dataset:
     file: str = "examples/custom_dataset.py"
     train_split: str = "train"
     test_split: str = "validation"
+
+@dataclass
+class llamaguard_toxicchat_dataset:
+    dataset: str = "llamaguard_toxicchat_dataset"
+    train_split: str = "train"
+    test_split: str = "test"
